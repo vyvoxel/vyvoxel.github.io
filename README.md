@@ -1,12 +1,8 @@
-# Learn-WebXR
-Resources for my Udemy course
+# VyVoxel Web AR and VR Demo Site
+Website is in Development
 
-## Examples
-Online examples are available [here](https://niksgames.com/webxr/)
+## To Know More
+Visit our website [here](https://vyvoxel.com)
 
-## Links
-- [My courses](http://niklever.com/courses)
-- ![icon](assets/facebook.png)[FB Three.JS Group](https://www.facebook.com/groups/nikthreejs)
-- ![icon](assets/twitter.png)[Twitter](https://twitter.com/NikLever)
-- ![icon](assets/youtube.png)[YouTube Channel](https://youtube.com/c/NikLever)
-- ![icon](assets/mail.png)[nik.j.lever@gmail.com](mailto:nik.j.lever@gmail.com)
+## Dev Contact
+- ![icon](assets/mail.png)[jayasurya@vyvoxel.com](mailto:vyvoxel.com)
